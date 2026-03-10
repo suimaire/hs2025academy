@@ -1,1 +1,1 @@
-# hs2025academy
+# HAFS2026academy
